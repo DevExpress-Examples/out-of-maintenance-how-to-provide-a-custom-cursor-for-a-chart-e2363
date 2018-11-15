@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomChartCursor/Form1.cs) (VB: [Form1.vb](./VB/CustomChartCursor/Form1.vb))
+<!-- default file list end -->
 # How to provide a custom cursor for a chart
 
 
